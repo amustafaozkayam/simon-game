@@ -69,7 +69,7 @@ function nextRound() {
   level += 1;
 
   tileContainer.classList.add('unclickable');
-  info.textContent = 'Wait for the computer';
+  info.textContent = 'Wait for the computer!!';
   heading.textContent = `Level ${level} / 20`;
 
 
